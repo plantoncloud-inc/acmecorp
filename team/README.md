@@ -4,37 +4,37 @@
 flowchart TB
     %% Founder
     subgraph Founder
-    F1(Fiona Lee \n [founder.fiona-lee.png])
-    F2(Frank Lee \n [founder.frank-lee.png])
+    F2["Frank Lee \n ![Image](founder.frank-lee.png)"]
+    F1["Fiona Lee \n ![Image](founder.fiona-lee.png)"]
     end
 
     %% Project Manager
     subgraph Project Manager
-    PM1(Paul Wood \n [project-manager.paul-wood.png])
+    PM1["Paul Wood \n ![Image](project-manager.paul-wood.png)"]
     end
 
     %% Infrastructure (Infra)
     subgraph Infrastructure
-    I1(Ian Reed \n [infra.ian-reed.png])
-    I2(Ivan Brooks \n [infra.ivan-brooks.png])
+    I1["Ian Reed \n ![Image](infra.ian-reed.png)"]
+    I2["Ivan Brooks \n ![Image](infra.ivan-brooks.png)"]
     end
 
     %% DevOps
     subgraph DevOps
-    D1(Derek Chen \n [devops.derek-chen.png])
-    D2(Devika Rao \n [devops.devika-rao.png])
+    D1["Derek Chen \n ![Image](devops.derek-chen.png)"]
+    D2["Devika Rao \n ![Image](devops.devika-rao.png)"]
     end
 
     %% Backend
     subgraph Backend
-    B1(Bala Krishnan \n [backend-bala-krishnan.png])
-    B2(Barath Kumar \n [backend-barath-kumar.png])
+    B1["Bala Krishnan \n ![Image](backend-bala-krishnan.png)"]
+    B2["Barath Kumar \n ![Image](backend-barath-kumar.png)"]
     end
 
     %% Front-End
     subgraph Front-End
-    FE1(Frankie Park \n [front-end.frankie-park.png])
-    FE2(Freda Wang \n [front-end.freda-wang.png])
+    FE1["Frankie Park \n ![Image](front-end.frankie-park.png)"]
+    FE2["Freda Wang \n ![Image](front-end.freda-wang.png)"]
     end
 ```
 
@@ -42,8 +42,8 @@ flowchart TB
 
 | Role    | First Name | Last Name | Profile Image                                  |
 |---------|------------|-----------|------------------------------------------------|
-| Founder | Fiona      | Lee       | [founder.fiona-lee.png](founder.fiona-lee.png) |
 | Founder | Frank      | Lee       | [founder.frank-lee.png](founder.frank-lee.png) |
+| Founder | Fiona      | Lee       | [founder.fiona-lee.png](founder.fiona-lee.png) |
 
 # Project Manager
 
