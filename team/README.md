@@ -1,55 +1,6 @@
 # Team
 
-```mermaid
-flowchart TB
-    %% Founder
-    subgraph Founder
-    F2["Frank Lee"]
-    F1["Fiona Lee"]
-    end
-
-    %% Product Manager
-    subgraph ProductManager
-    PM1["Paul Wood"]
-    end
-
-    %% Operations Manager
-    subgraph OperationsManager
-    OM1["Michael Grant"]
-    end
-
-    %% Infrastructure (Infra)
-    subgraph Infrastructure
-    I1["Ian Reed"]
-    I2["Ivan Brooks"]
-    end
-
-    %% DevOps
-    subgraph DevOps
-    D1["Derek Chen"]
-    D2["Devika Rao"]
-    end
-
-    %% Backend
-    subgraph Backend
-    B1["Bala Krishnan"]
-    B2["Bharat Kumar"]
-    end
-
-    %% Front-End
-    subgraph FrontEnd
-    FE1["Frankie Park"]
-    FE2["Freda Wang"]
-    end
-    
-    %% Connect Founder to all other subgraphs
-    Founder --> ProductManager
-    Founder --> OperationsManager
-    OperationsManager --> DevOps
-    OperationsManager --> Infrastructure
-    ProductManager --> Backend
-    ProductManager --> FrontEnd
-```
+![Team Overview](https://www.mermaidchart.com/raw/1b1c2ba1-9f6b-465b-b7a5-c28d04dbae11?theme=light&version=v0.1&format=svg)
 
 # Founder
 
