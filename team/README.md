@@ -4,37 +4,37 @@
 flowchart TB
     %% Founder
     subgraph Founder
-    F2["Frank Lee \n ![Image](founder.frank-lee.png)"]
-    F1["Fiona Lee \n ![Image](founder.fiona-lee.png)"]
+    F2["Frank Lee"]
+    F1["Fiona Lee"]
     end
 
     %% Project Manager
     subgraph Project Manager
-    PM1["Paul Wood \n ![Image](project-manager.paul-wood.png)"]
+    PM1["Paul Wood"]
     end
 
     %% Infrastructure (Infra)
     subgraph Infrastructure
-    I1["Ian Reed \n ![Image](infra.ian-reed.png)"]
-    I2["Ivan Brooks \n ![Image](infra.ivan-brooks.png)"]
+    I1["Ian Reed"]
+    I2["Ivan Brooks"]
     end
 
     %% DevOps
     subgraph DevOps
-    D1["Derek Chen \n ![Image](devops.derek-chen.png)"]
-    D2["Devika Rao \n ![Image](devops.devika-rao.png)"]
+    D1["Derek Chen"]
+    D2["Devika Rao"]
     end
 
     %% Backend
     subgraph Backend
-    B1["Bala Krishnan \n ![Image](backend-bala-krishnan.png)"]
-    B2["Barath Kumar \n ![Image](backend-barath-kumar.png)"]
+    B1["Bala Krishnan"]
+    B2["Bharat Kumar"]
     end
 
     %% Front-End
     subgraph Front-End
-    FE1["Frankie Park \n ![Image](front-end.frankie-park.png)"]
-    FE2["Freda Wang \n ![Image](front-end.freda-wang.png)"]
+    FE1["Frankie Park"]
+    FE2["Freda Wang"]
     end
 ```
 
