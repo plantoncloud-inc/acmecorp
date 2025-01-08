@@ -8,9 +8,14 @@ flowchart TB
     F1["Fiona Lee"]
     end
 
-    %% Project Manager
-    subgraph Project Manager
+    %% Product Manager
+    subgraph ProductManager
     PM1["Paul Wood"]
+    end
+
+    %% Operations Manager
+    subgraph OperationsManager
+    OM1["Michael Grant"]
     end
 
     %% Infrastructure (Infra)
@@ -32,10 +37,18 @@ flowchart TB
     end
 
     %% Front-End
-    subgraph Front-End
+    subgraph FrontEnd
     FE1["Frankie Park"]
     FE2["Freda Wang"]
     end
+    
+    %% Connect Founder to all other subgraphs
+    Founder --> ProductManager
+    Founder --> OperationsManager
+    OperationsManager --> DevOps
+    OperationsManager --> Infrastructure
+    ProductManager --> Backend
+    ProductManager --> FrontEnd
 ```
 
 # Founder
