@@ -50,4 +50,4 @@ Mermaid Diagram: https://www.mermaidchart.com/app/projects/e755174a-4a2b-41d7-91
 | Role      | First Name | Last Name | Profile Image                                            |
 |-----------|------------|-----------|----------------------------------------------------------|
 | Front-End | Frankie    | Park      | [front-end.frankie-park.png](front-end.frankie-park.png) |
-| Front-End | Freda      | Wang      | [front-end.freda-wang.png](front-end.freda-wang.png)     |
+| Front-End | Freda      | Wang      | [front-end.freda-wang.png](front-end.`   `-wang.png)     |
