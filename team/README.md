@@ -43,7 +43,7 @@ Mermaid Diagram: https://www.mermaidchart.com/app/projects/e755174a-4a2b-41d7-91
 | Role    | First Name | Last Name | Profile Image                                          |
 |---------|------------|-----------|--------------------------------------------------------|
 | Backend | Bala       | Krishnan  | [backend-bala-krishnan.png](backend-bala-krishnan.png) |
-| Backend | Barath     | Kumar     | [backend-barath-kumar.png](backend-barath-kumar.png)   |
+| Backend | Bharath    | Kumar     | [backend-bharath-kumar.png](backend-bharath-kumar.png) |
 
 # Front-End
 
