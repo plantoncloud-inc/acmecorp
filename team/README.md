@@ -64,6 +64,13 @@ flowchart TB
 |-----------------|------------|-----------|----------------------------------------------------------------|
 | Project Manager | Paul       | Wood      | [project-manager.paul-wood.png](project-manager.paul-wood.png) |
 
+
+# Operations Manager
+
+| Role               | First Name | Last Name | Profile Image                                                                |
+|--------------------|------------|-----------|------------------------------------------------------------------------------|
+| Operations Manager | Michael    | Grant     | [operations-manager.michael-grant.png](operations-manager.michael-grant.png) |
+
 # Infrastructure (Infra)
 
 | Role                   | First Name | Last Name | Profile Image                                  |
