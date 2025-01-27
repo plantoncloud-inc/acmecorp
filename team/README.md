@@ -1,8 +1,8 @@
 # Team
 
-Mermaid Diagram: https://www.mermaidchart.com/app/projects/e755174a-4a2b-41d7-9112-9026ee8faa7a/diagrams/1b1c2ba1-9f6b-465b-b7a5-c28d04dbae11
+Mermaid Diagram: https://www.mermaidchart.com/app/projects/0a6c2fa5-ae03-4f44-bcff-39efc3c28f78/diagrams/8edcd02e-c0d0-428b-9689-f34fc0691a20/version/v0.1/edit
 
-![Team Overview](https://www.mermaidchart.com/raw/1b1c2ba1-9f6b-465b-b7a5-c28d04dbae11?theme=light&version=v0.1&format=svg)
+![Team Overview](https://www.mermaidchart.com/raw/8edcd02e-c0d0-428b-9689-f34fc0691a20?theme=light&version=v0.1&format=svg)
 
 # Founder
 
