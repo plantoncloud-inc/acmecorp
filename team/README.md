@@ -1,7 +1,5 @@
 # Team
 
-Mermaid Diagram: https://www.mermaidchart.com/app/projects/0a6c2fa5-ae03-4f44-bcff-39efc3c28f78/diagrams/8edcd02e-c0d0-428b-9689-f34fc0691a20/version/v0.1/edit
-
 ![Team Overview](https://www.mermaidchart.com/raw/8edcd02e-c0d0-428b-9689-f34fc0691a20?theme=light&version=v0.1&format=svg)
 
 # Founder
@@ -51,3 +49,5 @@ Mermaid Diagram: https://www.mermaidchart.com/app/projects/0a6c2fa5-ae03-4f44-bc
 |-----------|------------|-----------|------------------------------------------------------|
 | Front-End | Freya      | Park      | [front-end.freya-park.png](front-end.freya-park.png) |
 | Front-End | Freda      | Wang      | [front-end.freda-wang.png](front-end.`   `-wang.png) |
+
+Mermaid Diagram can be edited [here](https://www.mermaidchart.com/app/projects/0a6c2fa5-ae03-4f44-bcff-39efc3c28f78/diagrams/8edcd02e-c0d0-428b-9689-f34fc0691a20/version/v0.1/edit).
